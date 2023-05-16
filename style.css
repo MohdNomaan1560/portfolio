@@ -1,0 +1,37 @@
+body{
+    background-color: C4DFDF;
+}
+.abc{
+    color: 394867;
+}
+img.cde{
+    background-color: black;
+    border: 10px black;
+    padding: 10px;
+}
+h2{
+    color: 088395;
+}
+h1{
+    color: 569DAA;
+}
+.bcd{
+    color: 6DA9E4;
+}
+h3{
+    color: 57C5B6;
+}
+ li{
+    color: 1A5F7A;
+ }
+ p{
+    color: 1A5F7A;
+ }
+ button{
+    background-color: 97DEFF;
+ }
+ img{
+    background-color: rgb(130, 69, 12);
+    border: 10px black;
+    padding: 10px;  
+ }
